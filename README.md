@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Greysilly7</h1>
-<h3 align="center">A depressed backend developer (and partially frontend ;( )</h3>
+<h3 align="center">A depressed FullStack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greysilly7&label=Profile%20views&color=0e75b6&style=flat" alt="greysilly7" /> </p>
 
